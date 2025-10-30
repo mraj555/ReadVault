@@ -1007,11 +1007,11 @@ TestFlight પ્રક્રિયા ડેવલપર્સને તેમ�
 
 Here are some quality tutorials in Hindi/Urdu covering Provider:
 
-* Flutter Provider Full Tutorial for Beginner in Hindi — by CodeWithPatel. Covers initialization of Provider, UI updates, REST API with Provider. ([YouTube][1])
-* Flutter Provider Tutorial: Flutter Provider State Management | Flutter Provider in Hindi — by Baaba Devs. Good practical walk-through of Provider usage. ([YouTube][2])
-* Flutter Provider State Management | Flutter Provider Tutorial Hindi — by Code Red Clan. Beginner → intermediate with best practices. ([YouTube][3])
-* [HINDI] #02 What Is Provider In Flutter|| Flutter Provider Explained With Examples — by Code With Dhruv. Great for conceptual clarity. ([YouTube][4])
-* 42‑ Build a Note App in Flutter with Provider ‑ State Management in Action (Urdu/Hindi) — by Spread Coding. A project‐based tutorial using Provider in a real app scenario. ([YouTube][5])
+* Flutter Provider Full Tutorial for Beginner in Hindi — by CodeWithPatel. Covers initialization of Provider, UI updates, REST API with Provider.
+* Flutter Provider Tutorial: Flutter Provider State Management | Flutter Provider in Hindi — by Baaba Devs. Good practical walk-through of Provider usage.
+* Flutter Provider State Management | Flutter Provider Tutorial Hindi — by Code Red Clan. Beginner → intermediate with best practices.
+* [HINDI] #02 What Is Provider In Flutter|| Flutter Provider Explained With Examples — by Code With Dhruv. Great for conceptual clarity.
+* 42‑ Build a Note App in Flutter with Provider ‑ State Management in Action (Urdu/Hindi) — by Spread Coding. A project‐based tutorial using Provider in a real app scenario.
 
 **Tip:** Bookmark these videos and watch in tandem with coding. Also pause and experiment after each concept to reinforce learning.
 
